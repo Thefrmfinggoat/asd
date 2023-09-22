@@ -25,9 +25,9 @@
 /* https://leafyluigi.github.io/discord-themes/pyrite/var-examples.html */
 :root {
   /* URL must be HTTPS and a direct link to the image. You can have a custom background image for the User Popout and the User Modals. */
- 
+  --background-image: url('https://i.imgur.com/hOpXSFO.png'); -- X0X
   /* Home icon is for the little button in the top left. */
- --home-icon: url('https://imgur.com/a/Lekhsj3'); -- BACKGROUND HOME ICON
+ --home-icon: url('https://i.imgur.com/gvTONs3.png'); -- X0X
 
   /* Image attachment can be "fixed", "scroll" or "local" */
   /* scroll/local attaches the background to the modal completely while fixed keeps it in line with the background */
@@ -176,7 +176,7 @@
   --blurple-sheer: rgba(114, 137, 218, 0.267);
   --greyple-sheer: rgba(151, 168, 180, 0.267);
   --black-hole: url(https://imgur.com/a/8wOU2RC);
-  --stars: url(https://imgur.com/a/8wOU2RC); -- BACKGROUND
+  --stars: url(https://i.imgur.com/hOpXSFO.png) -- BACKGROUND
   --roundness: 50px;
   --uno: rgb(25, 25, 27);
   /* primary background color */
